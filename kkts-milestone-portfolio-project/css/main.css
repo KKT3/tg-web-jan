@@ -1,0 +1,105 @@
+.body{
+  font-family: 'Playfair Display', serif;
+}
+  .full-width{
+  display: block;
+  background-color: #555555;
+  width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+}
+.box{
+  width: 250px;
+  border: 1px solid gray;
+}
+.boxtop{
+  width: 100%;
+  background-color: #d1d1a1;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}
+.intro{
+  width: 100%;
+  box-sizing: border-box;
+  overflow:hidden;
+}
+.message{
+  width: 100%;
+  background-color: #eeeec5;
+  box-sizing: border-box;
+  overflow:hidden;
+}
+.half-width{
+  background-color: #d1d1a1;
+  width: 40%;
+  padding-left: 20px;
+  box-sizing: border-box;
+  vertical-align: top;
+}
+.half-width-right{
+  width: 40%;
+  box-sizing: border-box;
+  float:right;
+  vertical-align: top;
+}
+.third-width{
+  padding: 20px;
+  width: 32%;
+  margin: 4px;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  float:left;
+}
+img{
+  width: 250px;
+  border: 1px solid gray;
+  margin-top: 10px;
+  margin-bottom: 1px;
+  vertical-align: top;
+}
+  h1{
+    color: #969669;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 40px;
+    box-sizing: border-box;
+  }
+  .half-width-left{
+    width: 50%;
+    margin-left: 30px;
+    box-sizing: border-box;
+    float:left;
+    vertical-align: top;
+  }
+
+  h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 0px;
+  }
+  h5{
+    font-size: 15px;
+    line-height: 1em;
+    margin-top: 0px;
+    color: gray;
+  }
+  p {
+    color: gray;
+    font-size: 18 px;
+  }
+  .caption{
+    font-size:8px;
+    font-style: italic;
+    margin-top: 2px;
+  }
+
+footer{
+  width:100%;
+  text-align: center;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  background-color: #d1d1a1;
